@@ -1,0 +1,11 @@
+@font-face{
+    font-family: "Poppins";
+    src: url(../Fonts/Poppins/Poppins-Regular.ttf);
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "Pop";
+    src: url(../Fonts/Others/Raleway-Regular.ttf);
+    font-style: normal;
+}
